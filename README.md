@@ -1,7 +1,8 @@
 # ASL-Gesture-Analysis
 <p align="center">
-  <img src="https://github.com/divergent99/ASL-Gesture-Analysis/blob/main/Images/ASL.png" alt="Stats">
+  <img src="https://github.com/divergent99/ASL-Gesture-Analysis/blob/main/Images/ASL.png" width=400 alt="Stats">
 </p>
+
 **Abstract** 
 1. The algorithm described in this paper aims to achieve Gesture recognition in identifying American Sign Language Symbols. There are a total of 29 characters that were added to the image database for the model to classify. 
 2. The Database includes 87,000 images and more than 1200 images per character. Since it is a multiclass classification problem, a CNN model is implemented. The primary objective of the algorithm is to correctly classify all the gestures that are mapped on the proposed ASL Alphabet matrix integrated with the Digital Signage. 
@@ -37,5 +38,5 @@ The data set used in the project was downloaded from Kaggle which contains about
 
 **Cost Comparision**
 <p align="center">
-  <img src="https://github.com/divergent99/ASL-Gesture-Analysis/blob/main/Images/Cost%20Comparison.png" alt="Stats">
+  <img src="https://github.com/divergent99/ASL-Gesture-Analysis/blob/main/Images/Cost%20Comparison.png" width=500 alt="Stats">
 </p>
