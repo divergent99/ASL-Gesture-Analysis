@@ -6,3 +6,6 @@
 4. The CNN model uses an ADAM optimizer that mediates the learning rate by quickly reaching the global minima based on the Vector Component Precedence.
 
 **Keywords**: Gesture recognition - Multiclass - CNN - OpenCV - ADAM
+<p align="center">
+  <img src="https://github.com/divergent99/Univ.AI-DS-2-Project/blob/main/Poster%20DS-2.jpg" alt="Stats">
+</p>
